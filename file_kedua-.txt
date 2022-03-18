@@ -1,4 +1,5 @@
 IPK
 Sms 1	: 3.77
 Sms 2	: 3.84
-
+Sms 3	: 3.6
+Sms 4	: semoga bagus
